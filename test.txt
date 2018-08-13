@@ -1,4 +1,8 @@
 nihao
+<<<<<<< HEAD
 mooIFY
+=======
+MODify
+>>>>>>> f1
 
 modify
